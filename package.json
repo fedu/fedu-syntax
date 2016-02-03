@@ -3,12 +3,10 @@
   "theme": "syntax",
   "displayName": "Fedu Syntax Theme (dark)",
   "description": "Chilled palette and easy to read code coloring",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "keywords": [
     "syntax",
-    "theme",
-    "chilled",
-    "dark"
+    "theme"
   ],
   "icon": "icon.png",
   "repository": "https://github.com/fedu/fedu-syntax",
