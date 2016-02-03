@@ -1,0 +1,20 @@
+{
+  "name": "fedu-syntax",
+  "theme": "syntax",
+  "displayName": "Fedu Syntax Theme (dark)",
+  "description": "Chilled palette and easy to read code coloring",
+  "version": "0.0.1",
+  "publisher": "Mustanaamio",
+  "keywords": [
+    "syntax",
+    "theme",
+    "chilled",
+    "dark"
+  ],
+  "icon": "icon.png",
+  "repository": "https://github.com/atom/fedu-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
